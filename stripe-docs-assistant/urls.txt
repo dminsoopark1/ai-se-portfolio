@@ -1,0 +1,9 @@
+https://docs.stripe.com/payments/accept-a-payment
+https://docs.stripe.com/checkout/quickstart
+https://docs.stripe.com/payments/payment-intents
+https://docs.stripe.com/webhooks
+https://docs.stripe.com/refunds
+https://docs.stripe.com/disputes
+https://docs.stripe.com/declines
+https://docs.stripe.com/error-codes
+https://docs.stripe.com/testing
